@@ -11,7 +11,7 @@ No scraping, no messy data — just one clean API call.
 ```bash
 curl -H "x-api-key: YOUR_API_KEY" \
 https://func-brdatabridge.azurewebsites.net/api/v1/companies/11222333000181
-
+```
 💡 Use Case
 
 Stop asking users to manually fill company data.
@@ -34,8 +34,12 @@ Every request requires an API key:
 
 x-api-key: YOUR_API_KEY
 📊 Check Usage
+
+```bash
 curl -H "x-api-key: YOUR_API_KEY" \
-https://func-brdatabridge.azurewebsites.net/api/v1/me
+https://func-brdatabridge-f6h2edcub3emabgr.brazilsouth-01.azurewebsites.net/api/v1/me
+```
+
 📬 Get Access
 
 Currently in early access.
