@@ -1,8 +1,10 @@
-# 🇧🇷 Brazilian Company Data API (CNPJ)
+# 🇧🇷 Auto-fill Brazilian Company Data with CNPJ
 
-Auto-fill Brazilian company data in your app using just a CNPJ.
+Stop asking users to manually fill company data.
 
-No scraping, no messy data — just one clean API call.
+With a single API call, you can retrieve clean, structured company information from a Brazilian CNPJ.
+
+No scraping. No messy data. Just one reliable request.
 
 ---
 
