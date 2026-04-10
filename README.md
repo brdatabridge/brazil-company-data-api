@@ -42,8 +42,18 @@ curl -H "x-api-key: YOUR_API_KEY" \
 https://func-brdatabridge-f6h2edcub3emabgr.brazilsouth-01.azurewebsites.net/api/v1/me
 ```
 
-📬 Get Access
+## 🚀 Get API Access
 
-Currently in early access.
+This API is currently in early access.
 
-Send me a message to get your API key.
+If you want to try it, you can request an API key by sending a message with:
+
+- What you are building (optional)
+- Your expected usage (optional)
+
+👉 Contact: brdatabridge@proton.me
+
+You will receive:
+
+- Your API key
+- Quick start instructions
